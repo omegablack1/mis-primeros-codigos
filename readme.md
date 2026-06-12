@@ -1,5 +1,3 @@
-read me
-ahora si cambiando el texto de lo clonado en vs code local
-yo alex
-otro cambio
-cambio de cristian-2
+# Este es una practica de como crear un readme
+## Los readme son con extencion md (Markdown)
+## el readme se puede crear desde la nube de GITHUB o LOCAL desde VSCODE
